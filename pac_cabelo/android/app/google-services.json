@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533892661765",
+    "project_id": "paccabelo",
+    "storage_bucket": "paccabelo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533892661765:android:fbf613d92cc2e82847526c",
+        "android_client_info": {
+          "package_name": "paccabelo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDysVX8tV1fzSe7b0g8ioW4eDcDqd6T7sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
